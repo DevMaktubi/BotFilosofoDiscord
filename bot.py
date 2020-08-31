@@ -1,8 +1,6 @@
 import os
 
 import discord
-import io
-import aiohttp
 from PIL import Image, ImageDraw, ImageFont
 import requests
 import shutil
